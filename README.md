@@ -3,6 +3,7 @@
 [![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/q2mwv66mu5/badge.svg)](https://msrit.ask.thili.ai/b/q2mwv66mu5)
 [![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/69n55sw8x6/badge.svg)](https://msrit.ask.thili.ai/b/69n55sw8x6)
 [![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/7uvv54pka3/badge.svg)](https://msrit.ask.thili.ai/b/7uvv54pka3)
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/tjcdsqum7q/badge.svg)](https://msrit.ask.thili.ai/b/tjcdsqum7q)
 
 
 A reproducible experiment comparing a statistical n-gram model with a small causal Transformer for next-item prediction. Both learn from the same synthetic retail sessions; neither model uses pretrained weights or an external inference API.
