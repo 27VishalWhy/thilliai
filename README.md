@@ -1,4 +1,6 @@
 # Retail Basket Prediction Analyzer
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/zzn5s2n8ds/badge.svg)](https://msrit.ask.thili.ai/b/zzn5s2n8ds)
+
 
 A reproducible experiment comparing a statistical n-gram model with a small causal Transformer for next-item prediction. Both learn from the same synthetic retail sessions; neither model uses pretrained weights or an external inference API.
 
